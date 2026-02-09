@@ -1,0 +1,52 @@
+{
+    "photoVideoServices": [
+        {
+            "id": 1,
+            "serviceName": "Personal Print License",
+            "serviceDescription": "License Papi's images to print yourself. Simply print at a supported size based on the image aspect ratio.",
+            "price": 5
+        },
+        {
+            "id": 2,
+            "serviceName": "Personal Video License",
+            "serviceDescription": "License Papi's images to use in personal videos. Simply use at a supported size based on the image aspect ratio.",
+            "price": 5
+        },
+        {
+            "id": 3,
+            "serviceName": "Commercial Print and Marketing License",
+            "serviceDescription": "License Papi's images to print and use in marketing materials. Simply print at a supported size based on the image aspect ratio.",
+            "price": 20
+        },
+        {
+            "id": 4,
+            "serviceName": "Video Commercial Marketing License",
+            "serviceDescription": "License Papi's images to use in video marketing materials. Simply use at a supported size based on the image aspect ratio.",
+            "price": 20
+        },
+        {
+            "id": 5,
+            "serviceName": "Multimedia Use License",
+            "serviceDescription": "License Papi's images to use in multimedia projects such as film and animation. Simply use at a supported size based on the image aspect ratio.",
+            "price": 50
+        },
+        {
+            "id": 6,
+            "serviceName": "Graduation Photo Package",
+            "serviceDescription": "A package of 10 high-resolution images from Papi's graduation photoshoot. Perfect for sharing with family and friends.",
+            "price": 500
+        },
+        {
+            "id": 7,
+            "serviceName": "Custom Photo Shoot",
+            "serviceDescription": "Book a custom photo shoot with Papi. Perfect for capturing special moments or creating unique content.",
+            "price": 1000
+        },
+        {
+            "id": 8,
+            "serviceName": "Wedding Photo Package",
+            "serviceDescription": "A package of 50 high-resolution images from Papi's wedding photoshoot. Perfect for sharing with family and friends.",
+            "price": 2000
+        }
+    ]
+}
